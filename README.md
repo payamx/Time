@@ -7,5 +7,7 @@ utilizing Iranian APIs for prayer times and the Moment Jalali and Moment Hijri l
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,ts" />
+
   </a>
 </p>
+   <img src="https://komarev.com/ghpvc/?username=payamx/time&style=flat-square&color=blue" alt="payamx"/>
