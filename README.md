@@ -10,4 +10,4 @@ utilizing Iranian APIs for prayer times and the Moment Jalali and Moment Hijri l
 
   </a>
 </p>
-   <img src="https://komarev.com/ghpvc/?username=payamx/time&style=flat-square&color=blue" alt="payamx"/>
+   <img src="https://komarev.com/ghpvc/?username=payamx&style=flat-square&color=blue" alt="payamx"/>
